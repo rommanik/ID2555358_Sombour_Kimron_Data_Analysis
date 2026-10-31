@@ -1,6 +1,0 @@
-student_id,faculty,enrolled_on,credits,fee_usd,note
-0042,Engineering,2026-03-02,15,1425.00,
-0043,Business,2026-03-03,12,1140.00,late enrolment
-0044,Science,2026-03-03,N/A,1710.00,
-0045,Arts,2026-03-04,15,N/A,deferred
-0046,Engineering,2026-03-05,18,1710.00,
